@@ -54,10 +54,13 @@ def findPoints(filelist,boardSize,board_distance):
 # disCoeffs：畸变系数
 # rvecs：旋转矩阵
 # tvecs：位移向量
+
 def cv_calibrate(imagePoints,objectCorners,imageSize):
     objectPoints=[]
     for i in range(len(imagePoints)):
         objectPoints.append(objectCorners)
+    #print(objectPoints,imagePoints)
+    #objectPoints,imagePoints都是以list[array()]形式录入
     _,cameraMatirx, disCoeffs, rvecs, tvecs=cv.calibrateCamera(objectPoints,imagePoints,imageSize,None,None)
     return cameraMatirx, disCoeffs, rvecs, tvecs
 # 去畸变
