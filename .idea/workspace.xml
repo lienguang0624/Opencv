@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da7215ad-0a6d-449e-a6bc-010740e6f269" name="Default Changelist" comment="" />
+    <list default="true" id="da7215ad-0a6d-449e-a6bc-010740e6f269" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binocular_correct.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binocular_correct.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +44,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Binocular_correct.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Deep_catch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Opencv" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deep_catch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,6 +118,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Binocular_correct" />
+        <item itemvalue="Python.Deep_catch" />
         <item itemvalue="Python.binocular" />
         <item itemvalue="Python.monocular" />
       </list>
@@ -113,25 +138,50 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1882" height="271" key="GridCell.Tab.0.bottom" timestamp="1584412679400">
+    <state width="2539" height="392" key="GridCell.Tab.0.bottom" timestamp="1586846526268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1873" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584432762523" />
+    <state width="2539" height="392" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.541.1920.1040@0.0.2560.1400" timestamp="1586846526268" />
+    <state width="2539" height="392" key="GridCell.Tab.0.center" timestamp="1586846526268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1873" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584432762522" />
+    <state width="2539" height="392" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.541.1920.1040@0.0.2560.1400" timestamp="1586846526268" />
+    <state width="2539" height="392" key="GridCell.Tab.0.left" timestamp="1586846526268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1873" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584432762522" />
+    <state width="2539" height="392" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.541.1920.1040@0.0.2560.1400" timestamp="1586846526268" />
+    <state width="2539" height="392" key="GridCell.Tab.0.right" timestamp="1586846526268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1873" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584432762523" />
+    <state width="2539" height="392" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.541.1920.1040@0.0.2560.1400" timestamp="1586846526268" />
+    <state width="1873" height="334" key="GridCell.Tab.1.bottom" timestamp="1584425280166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1882" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584412679400" />
-    <state width="1882" height="271" key="GridCell.Tab.0.center" timestamp="1584412679399">
+    <state width="1873" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584425280166" />
+    <state width="1873" height="334" key="GridCell.Tab.1.center" timestamp="1584425280166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1882" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584412679399" />
-    <state width="1882" height="271" key="GridCell.Tab.0.left" timestamp="1584412679399">
+    <state width="1873" height="334" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584425280166" />
+    <state width="1873" height="334" key="GridCell.Tab.1.left" timestamp="1584425280166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1882" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584412679399" />
-    <state width="1882" height="271" key="GridCell.Tab.0.right" timestamp="1584412679399">
+    <state width="1873" height="334" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584425280166" />
+    <state width="1873" height="334" key="GridCell.Tab.1.right" timestamp="1584425280166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1882" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584412679399" />
-    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1584410186763">
+    <state width="1873" height="334" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584425280166" />
+    <state x="853" y="462" key="com.intellij.ide.util.TipDialog" timestamp="1586845436146">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584530418654" />
+    <state x="853" y="462" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.541.1920.1040@0.0.2560.1400" timestamp="1586845436146" />
+    <state x="618" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1584424588607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584410186763" />
+    <state x="618" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584424588607" />
   </component>
 </project>
